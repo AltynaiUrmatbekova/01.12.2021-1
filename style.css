@@ -55,6 +55,13 @@ flex: 1 0 0;
 .example-1 {
     background-color: white;
     border-radius: 20px;
+    
     padding: 1rem;
     box-shadow: 0 0 10px 0 rgb(134, 108, 108);
+}
+.example-2 {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 0  10px 0 rgb(87, 55, 55);
 }
