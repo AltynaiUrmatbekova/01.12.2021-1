@@ -55,7 +55,7 @@ flex: 1 0 0;
 .example-1 {
     background-color: white;
     border-radius: 20px;
-    
+
     padding: 1rem;
     box-shadow: 0 0 10px 0 rgb(134, 108, 108);
 }
@@ -65,3 +65,10 @@ flex: 1 0 0;
   border-radius: 15px;
   box-shadow: 0 0  10px 0 rgb(87, 55, 55);
 }
+.example-3 {
+      background-color: white;
+      border: 1px solid rgb(250, 136, 136);
+      border-radius: 15px;
+      padding: 1rem;
+      margin: 15px;
+  }
